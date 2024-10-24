@@ -1,0 +1,3 @@
+aaaa ICON "tic-tac-toe.ico"
+
+#include "wx/msw/wx.rc"
